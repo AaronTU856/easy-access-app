@@ -1,0 +1,20 @@
+<resources>
+    <string name="placeholder_name">Entrez le nom</string>
+    <string name="placeholder_student_id">Entrez lID de létudiant</string>
+    <string name="placeholder_password">Entrez le mot de passe</string>
+    <string name="button_register">Sinscrire</string>
+    <string name="button_student">Étudiant</string>
+    <string name="button_staff">Personnel</string>
+    <string name="card_title">Ceci est la page de la carte</string>
+    <string name="card_subtitle">Les détails de la carte seront affichés ici.</string>
+    <string name="card_button_text">Effectuer une action</string>
+    <string name="home_welcome_text">Bienvenue</string>
+    <string name="student_name_placeholder">Nom de létudiant/personnel</string>
+    <string name="student_id_placeholder">Numéro dID:</string>
+    <string name="profile_image_description">Photo de profil</string>
+    <string name="library_title_text">Bibliothèque</string>
+    <string name="visit_library_website">Visiter le site Web de la bibliothèque</string>
+    <string name="visit_library_button_desc">Bouton pour visiter le site Web de la bibliothèque</string>
+    <string name="name_placeholder">Nom:</string>
+    <string name="id_placeholder">Numéro dID:</string>
+</resources>

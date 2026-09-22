@@ -1,0 +1,20 @@
+<resources>
+    <string name="placeholder_name">Ingrese el nombre</string>
+    <string name="placeholder_student_id">Ingrese el ID del estudiante</string>
+    <string name="placeholder_password">Ingrese la contraseña</string>
+    <string name="button_register">Registrarse</string>
+    <string name="button_student">Estudiante</string>
+    <string name="button_staff">Personal</string>
+    <string name="card_title">Esta es la página de la tarjeta</string>
+    <string name="card_subtitle">Los detalles de la tarjeta se mostrarán aquí.</string>
+    <string name="card_button_text">Realizar acción</string>
+    <string name="home_welcome_text">Bienvenido</string>
+    <string name="student_name_placeholder">Nombre del estudiante/personal</string>
+    <string name="student_id_placeholder">Número de ID:</string>
+    <string name="profile_image_description">Foto de perfil</string>
+    <string name="library_title_text">Biblioteca</string>
+    <string name="visit_library_website">Visitar el sitio web de la biblioteca</string>
+    <string name="visit_library_button_desc">Botón para visitar el sitio web de la biblioteca</string>
+    <string name="name_placeholder">Nombre:</string>
+    <string name="id_placeholder">Número de ID:</string>
+</resources>

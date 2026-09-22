@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary and Secondary Colors -->
+    <color name="colorPrimaryDark">#121212</color>
+    <color name="colorPrimary">#BB86FC</color>
+    <color name="colorPrimaryVariant">#121212</color>
+    <color name="colorAccent">#03DAC6</color>
+
+
+
+    <!-- Background and Surface Colors -->
+    <color name="background">#121212</color> <!-- Dark Background -->
+    <color name="surface">#121212</color>   <!-- Same as background for dark mode -->
+    <color name="background_color">#000000</color>
+
+    <!-- Text Colors -->
+    <color name="onPrimary">#FFFFFF</color> <!-- White for primary text -->
+    <color name="onSecondary">#FFFFFF</color> <!-- White for secondary text -->
+    <color name="onBackground">#FFFFFF</color> <!-- White for dark backgrounds -->
+    <color name="onSurface">#FFFFFF</color> <!-- White for dark surfaces -->
+
+
+    <!-- Error Color -->
+    <color name="error">#CF6679</color> <!-- A dark-compatible red for errors -->
+
+
+    <!-- Navigation Bar Colors -->
+    <color name="nav_item_selected">#BB86FC</color> <!-- Light Purple -->
+    <color name="nav_item_unselected">#757575</color> <!-- Gray for unselected -->
+
+    <!-- Other Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+
+
+</resources>

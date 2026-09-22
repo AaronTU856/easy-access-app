@@ -1,0 +1,36 @@
+<resources>
+    <!-- Primary and Secondary Colors -->
+    <color name="primary">#6200EE</color>
+    <color name="primaryVariant">#3700B3</color>
+    <color name="secondary">#03DAC6</color>
+    <color name="secondaryDark">#018786</color>
+    <color name="colorPrimaryVariant">#3700B3</color> <!-- Variant for dark primary -->
+
+    <!-- Background and Surface Colors -->
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="onSecondary">#000000</color>
+    <color name="onBackground">#000000</color>
+    <color name="onSurface">#000000</color>
+    <color name="onError">#FFFFFF</color>
+
+    <!-- Other Colors -->
+    <color name="error">#B00020</color>
+    <color name="background_color">#FFFFFF</color>
+    <color name="colorPrimary">#BB86FC</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_color">#E0E0E0</color>
+    <color name="black">#000000</color>
+    <color name="teal_200">#03DAC5</color>
+
+    <!-- Nav bar Colors -->
+    <color name="nav_item_selected">#FF5722</color>
+    <color name="nav_item_unselected">#757575</color>
+
+
+</resources>

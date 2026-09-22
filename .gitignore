@@ -13,11 +13,3 @@
 .externalNativeBuild
 .cxx
 local.properties
-
-# Android Studio and generated output
-/.idea/
-/.gradle/
-**/build/
-
-# Local Firebase configuration — create this locally when running the app
-/app/google-services.json

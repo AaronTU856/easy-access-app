@@ -1,0 +1,30 @@
+<resources>
+    <string name="placeholder_name">Enter Name</string>
+    <string name="placeholder_student_id">Enter Student ID</string>
+    <string name="placeholder_password">Enter Password</string>
+    <string name="button_register">Register</string>
+    <string name="button_student">Student</string>
+    <string name="button_staff">Staff</string>
+    <string name="app_name" translatable="false">Easy Access App</string>
+    <string name="card_title" translatable="false">This is the Card Page</string>
+    <string name="card_subtitle" translatable="false">Card details will be displayed here.</string>
+    <string name="card_button_text" translatable="false">Perform Action</string>
+    <string name="home_welcome_text" translatable="false">Welcome</string>
+    <string name="student_name_placeholder" translatable="false">Student/Staff Name</string>
+    <string name="student_id_placeholder" translatable="false">ID Number: </string>
+    <string name="profile_image_description" translatable="false">Profile Picture</string>
+    <string name="library_title_text" translatable="false">Library</string>
+    <string name="visit_library_website" translatable="false">Visit Library Website</string>
+    <string name="visit_library_button_desc" translatable="false">Button to visit the library website</string>
+    <string name="name_placeholder" translatable="false">Name: </string>
+    <string name="id_placeholder" translatable="false">ID Number: </string>
+    <string name="captured_image_placeholder" translatable="false">Placeholder for captured image</string>
+    <string-array name="print_types">
+        <item>Grayscale</item>
+        <item>Color</item>
+        <item>Double-Sided Grayscale</item>
+        <item>Double-Sided Color</item>
+    </string-array>
+
+
+</resources>
