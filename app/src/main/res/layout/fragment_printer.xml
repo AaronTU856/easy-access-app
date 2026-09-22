@@ -1,0 +1,77 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/background">
+
+    <!-- Printer Status -->
+    <TextView
+        android:id="@+id/printerStatusTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Printer Status: Unknown"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Dropdown for print types -->
+    <Spinner
+        android:id="@+id/printTypeSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_marginBottom="8dp"
+        android:padding="8dp" />
+
+    <!-- Input for page count -->
+    <EditText
+        android:id="@+id/pageCountInput"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_marginBottom="8dp"
+        android:hint="Enter number of pages"
+        android:inputType="number"
+        android:padding="8dp" />
+
+    <!-- Input for copy count -->
+    <EditText
+        android:id="@+id/copyCountInput"
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:layout_marginBottom="8dp"
+        android:hint="Enter number of copies"
+        android:inputType="number"
+        android:padding="8dp" />
+
+    <!-- Button to calculate cost -->
+    <Button
+        android:id="@+id/calculateButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="@color/secondary"
+        android:text="Calculate Cost"
+        android:textColor="@color/onSecondary" />
+
+    <!-- TextView to display cost -->
+    <TextView
+        android:id="@+id/costResultTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="Estimated Cost: "
+        android:textSize="16sp" />
+
+
+    <!-- Button to visit printer website -->
+    <Button
+        android:id="@+id/printerWebsiteButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="@color/primary"
+        android:text="Visit Printer Website"
+        android:textColor="@color/onPrimary" />
+
+</LinearLayout>

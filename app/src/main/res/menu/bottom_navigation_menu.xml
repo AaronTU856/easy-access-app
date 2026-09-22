@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_bottom_nav_home_foreground"/>
+
+    <item
+        android:id="@+id/card"
+        android:title="Card"
+        android:icon="@drawable/ic_bottom_nav_card_foreground"/>
+
+    <item
+        android:id="@+id/library"
+        android:title="Library"
+        android:icon="@drawable/ic_bottom_nav_library_foreground"/>
+
+    <item
+        android:id="@+id/printer"
+        android:title="Printer"
+        android:icon="@drawable/ic_bottom_nav_printer_foreground"/>
+</menu>

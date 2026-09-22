@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Request Permission -->
+    <item
+        android:id="@+id/action_request_permission"
+        android:title="Request Permission"
+        android:icon="@drawable/baseline_lock_open_24"
+        android:iconTint="?attr/colorOnBackground"
+        app:showAsAction="ifRoom" />
+
+    <!-- Fetch Location -->
+    <item
+        android:id="@+id/action_fetch_location"
+        android:title="Fetch Location"
+        android:icon="@drawable/baseline_gps_fixed_24"
+        android:iconTint="?attr/colorOnBackground"
+        app:showAsAction="ifRoom" />
+
+    <!-- Settings -->
+    <item
+        android:id="@+id/action_settings"
+        android:title="Settings"
+        android:icon="@drawable/baseline_settings_24"
+        android:iconTint="?attr/colorOnBackground"
+        app:showAsAction="ifRoom" />
+
+    <!-- Logout -->
+    <item
+        android:id="@+id/action_logout"
+        android:title="Logout"
+        android:icon="@drawable/baseline_logout_24"
+        android:iconTint="?attr/colorOnBackground"
+        app:showAsAction="ifRoom" />
+</menu>
